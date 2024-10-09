@@ -180,37 +180,3 @@ Future Enhancements
     Regular Audits: Perform regular security audits to identify and address vulnerabilities.
 
 
-
-**##Contributing##**
-
-We welcome contributions to ACONews! To contribute, please follow these steps:
-
-    Fork the Repository: Click the "Fork" button on the top right of the repository page on GitHub.
-
-    Create a New Branch:
-
-    bash
-
-git checkout -b feature/your-feature
-
-Make Your Changes: Implement your feature or fix the issue.
-
-Commit Your Changes:
-
-bash
-
-git add .
-git commit -m 'Add new feature'
-
-Push to the Branch:
-
-bash
-
-    git push origin feature/your-feature
-
-    Create a Pull Request: Go to the repository on GitHub and create a new pull request.
-
-
-
-
-
