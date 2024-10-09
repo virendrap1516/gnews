@@ -46,15 +46,6 @@ Before you begin, ensure you have the following installed:
     Node.js: Download and install Node.js (version 14.x or higher).
     npm: Comes bundled with Node.js. Verify installation by running npm -v in your terminal.
 
-**Installation**
-
-    Clone the Repository:
-
-    bash
-
-git clone https://github.com/yourusername/aconews.git
-cd aconews
-
 Install Frontend Dependencies:
 
 Navigate to the client directory and install the required packages:
@@ -221,5 +212,5 @@ bash
 
 
 
-![Screenshot (1016)](https://github.com/user-attachments/assets/142872e1-84b6-4c89-b5cf-55f0d795a833)
+
 
